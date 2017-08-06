@@ -3,6 +3,9 @@
 
 # Log file
 *.log
+#My Practice Folder
+practice
+
 
 # BlueJ files
 *.ctxt

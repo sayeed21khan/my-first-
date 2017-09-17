@@ -1,14 +1,16 @@
 /***************************************************************************
 * Purpose : to display the day of the calendar
-*
-*@author : Aashish
+
+*Compilation:-java -d bin com/bridgelabz/util/Calendar.java
+*Execution:-java -cp bin com/bridgelabz/util/calendar
+*@author : Sayeed Khan
 *@version : 1.8.0
 *@since : 25-08-2017
 ****************************************************************************/
 
 
 
-package com.bridgelabz.lib;
+package com.bridgelabz.util;
 
 public class Calendar {
     
